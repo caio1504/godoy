@@ -12,7 +12,7 @@ const elements = {
 
 // Configuração da Aplicação (Back-End)
 const config = {
-  apiUrl: "http://localhost:4000/pictures", // Endpoint da API
+  apiUrl: "https://imagens.onrender.com/pictures", // Endpoint da API
 };
 
 // Função de notificação
